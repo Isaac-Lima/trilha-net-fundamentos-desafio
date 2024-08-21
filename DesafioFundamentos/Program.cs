@@ -44,7 +44,7 @@ while (exibirMenu)
             break;
 
         case "4":
-            exibirMenu = false;
+            System.Environment.Exit(0);
             break;
 
         default:
